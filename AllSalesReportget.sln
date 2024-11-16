@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllSalesReportget", "AllSalesReportget\AllSalesReportget.csproj", "{E955A855-1630-4754-B2F3-96D812DD082E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "ClassLibrary2\BAL.csproj", "{D1ABBF0B-A4C5-4F3C-835A-4509E73B01CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E955A855-1630-4754-B2F3-96D812DD082E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E955A855-1630-4754-B2F3-96D812DD082E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E955A855-1630-4754-B2F3-96D812DD082E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E955A855-1630-4754-B2F3-96D812DD082E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1ABBF0B-A4C5-4F3C-835A-4509E73B01CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ABBF0B-A4C5-4F3C-835A-4509E73B01CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ABBF0B-A4C5-4F3C-835A-4509E73B01CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ABBF0B-A4C5-4F3C-835A-4509E73B01CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFD1909-C391-411E-85AF-4A7410099D2C}
+	EndGlobalSection
+EndGlobal
